@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KenBimaGands
 - 👀 I’m interested in Web Development and Front End development
-- 🌱 I’m currently learning CSS frameworks
+- 🌱 I’m currently learning CSS frameworks and basics of UI/UX
 - 📫 reach me on Instagram @kenprojects._
 
 <!---
