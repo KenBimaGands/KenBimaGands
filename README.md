@@ -1,6 +1,6 @@
 ### AI-Assisted UX & Product Researcher
 
-Computer Science student at Universitas Gadjah Mada (UGM), exploring the intersection of **AI, UX Research, and Product Development**.
+Computer Science student at Universitas Gadjah Mada (UGM). currently exploring as UX Scenario Engineer at Transsion, exploring the intersection of **AI, UX Research, and Product Development**.
 
 I'm interested in using AI to improve research workflows, understand user behavior, analyze data, and turn insights into better product decisions.
 
